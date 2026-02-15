@@ -31,7 +31,7 @@ const Hero = () => {
                     <div className="flex justify-center">
                         <div className="w-72 h-96 overflow-hidden grayscale">
                             <img
-                                src="/profile.jpg"
+                                src="/WhatsApp Image 2026-02-15 at 7.30.18 PM.jpeg"
                                 alt="profile"
                                 className="w-full h-full object-cover"
                             />
